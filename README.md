@@ -2,8 +2,7 @@
 
 Desafio de lógica da Academia Capgemini que constitui de 3 questões, aqui chamados de requisitos.
 
-# ![image](https://user-images.githubusercontent.com/19829761/154183899-e4174121-c6bb-4fdf-b554-8e06d5f45b06.png) Sobre a Capgemini ![image](https://user-images.githubusercontent.com/19829761/154183910-22d7d65f-6b21-41c8-af9e-66e09194b825.png)
-
+# Sobre a Capgemini ![image](https://user-images.githubusercontent.com/19829761/154183910-22d7d65f-6b21-41c8-af9e-66e09194b825.png)
 
 Líder global em consultoria, serviços de tecnologia e transformação digital, a Capgemini está na vanguarda da inovação para abordar toda a gama de oportunidades dos clientes no mundo em evolução de nuvem, digital e plataformas, com mais de 270 mil profissionais, a Capgemini está presente em quase 50 países.
 
