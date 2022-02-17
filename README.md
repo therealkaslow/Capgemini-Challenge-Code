@@ -1,4 +1,4 @@
-# 🚀 Desafio Da Academia Capgemini 🚀
+# Desafio Da Academia Capgemini
 
 Desafio de lógica da Academia Capgemini que constitui de 3 questões, aqui chamados de requisitos.
 
