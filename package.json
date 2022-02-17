@@ -1,0 +1,14 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Desafio da Academia Campgeni\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[Cpgemini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
