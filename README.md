@@ -17,17 +17,10 @@ Para executar os testes ao baixar o projeto execute o npm install, e para rodar 
 
 A impressão do requisito 1 se da por meio do console.log através do terminal do editor de código, editor usado neste projeto foi o vscode, e o mesmo também tem como retorno 1 array para ser usado nos testes unitários. 
 
-  [-> teste requisito 1](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/tests/starLaddder.test.js)
-
 # [📝 Requisito 2](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/src/passwordValidation.js)
 
 No requisito 2 foi implementado a lógica do password, e as mensagens de error de acordo com a situação.
-
-  [-> teste requisito 2](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/tests/passwordValidation.test.js)
   
 # [📝 Requisito 3](https://github.com/lelec0/Desafio/blob/3f7b7c5de895a6a1538a104552de3cee688d591a/src/anagramsChallenger.js)
 
 No requisito 3 foi implementada a lógica com base nos exemplos dados no desafio.
-
-  [-> teste requisito 3](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/tests/anagramsChallenger.test.js)
-
