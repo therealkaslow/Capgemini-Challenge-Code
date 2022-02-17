@@ -1,7 +1,7 @@
 const anagramsChallenger = require('../src/anagramsChallenger');
 
 describe('Teste para o requisito 3 do desafio da Academia Capgemini.', () => {
-  it('retorna o valor correto de acordo com a stirng passada.', () => {
+  it('retorna o valor correto de acordo com a string passada.', () => {
     {
         const actual = anagramsChallenger('ovo');
         const expected = 3;
